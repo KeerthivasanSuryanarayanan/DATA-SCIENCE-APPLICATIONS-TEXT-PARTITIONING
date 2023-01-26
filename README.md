@@ -15,3 +15,6 @@
 ### df_list.append(partition(bi, la)) #function is being called inside and the values are appended
 ### df = pd.concat(df_list)# Concatenating the DataFrames and exporting to CSV format
 ### df.to_csv('finaloutput.csv', index=False)
+
+## SAMPLE OUTPUT SNIPPET:
+![image](https://user-images.githubusercontent.com/104590925/214775579-43d95ee4-c87e-466e-bb2f-f99096710a82.png)
